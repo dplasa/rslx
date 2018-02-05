@@ -1,2 +1,2 @@
-# rslx
-A statemachine/scheduler/minmal cmd parser for the arduino platform
+RS Elektronik legacy extensions library
+Arduino library for state machines and variables changeable via serial monitor
